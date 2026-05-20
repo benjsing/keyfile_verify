@@ -1,0 +1,36 @@
+{
+    "keys": [
+        {
+            "key_id": "2026-05-BS",
+            "file": "2026-05-BS_pub.key",
+            "algorithm": "SHA256",
+            "fingerprint": "21095f5dd7847dbe33476227c2a62e97b4482ea86801c32eaa7a7b19afc7ddf3",
+            "status": "active",
+            "created_at": "2026-05-20",
+            "public_key_url": "https://github.com/benjsing/<repo>/blob/main/keys/2026-05-BS_pub.key",
+            "revoked": false,
+            "revoked_at": null,
+            "replacement_key": null,
+            "comment": "Primary forensic verification key for Ben."
+        },
+        {
+            "key_id": "2026-05-BB",
+            "file": "2026-05-BB_pub.key",
+            "algorithm": "SHA256",
+            "fingerprint": "81df101cf4fc7027bb7c310447ada1d29b0141bdd52df83106230aa86a23fc53",
+            "status": "active",
+            "created_at": "2026-05-20",
+            "public_key_url": "https://github.com/<account>/<repo>/blob/main/keys/2026-05-BB_pub.key",
+            "revoked": false,
+            "revoked_at": null,
+            "replacement_key": null,
+            "comment": "Primary forensic verification key for Tina."
+        }
+    ],
+    "metadata": {
+        "format_version": 1,
+        "generated_at": "2026-05-20T00:00:00Z",
+        "repository_purpose": "Public forensic verification keys for briefgen_core.",
+        "warning": "Private keys are NEVER published in this repository."
+    }
+}
