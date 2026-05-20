@@ -1,0 +1,8 @@
+{
+    "revoked": [],
+    "metadata": {
+        "format_version": 1,
+        "updated_at": "2026-05-20T00:00:00Z",
+        "comment": "List of revoked briefgen forensic verification keys."
+    }
+}
